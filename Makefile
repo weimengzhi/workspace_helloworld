@@ -1,5 +1,5 @@
 TARGET=hello
-SRC=hello.c
+SRC=helloworld.c
 
 
 all:${TARGET}
